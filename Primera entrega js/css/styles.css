@@ -1,0 +1,16 @@
+*{
+    padding-left: 50px;
+    
+}
+body{
+    background-color: brown;
+}
+.nombre1{
+    color: cyan;
+}
+.titulo1{
+    color: blue;
+}
+.items{
+    color: rgb(10, 240, 163);
+}
