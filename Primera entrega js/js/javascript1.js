@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
                 if (accion.toLowerCase() == "terminar"){ break }
             }
-        }while ( item != -1 );
+        }while (true);
 
 
         document.write("<html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><link rel='stylesheet' href='/Primera entrega js/css/styles.css'><title>Arma tu pc!</title></head>")
